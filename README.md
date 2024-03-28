@@ -30,5 +30,7 @@ How to Run:
 5. Start the frontend development server using npm start in the client directory.
 6. Access the application in your web browser at http://localhost:3000.
 
+Or You can Watch the Output Video : https://youtu.be/hFvieCEHcpo
+
 Akhil Kumar - https://github.com/Akhil-k0
 # TemplesInIndia
